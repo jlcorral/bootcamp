@@ -3,7 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ToDo.Data;
 
-namespace ToDo.Api.Configuration
+namespace API.Configuration
 {
     public static class ConfigureDatabase
     {

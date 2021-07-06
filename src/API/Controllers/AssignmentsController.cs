@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using ToDo.Data;
 
-namespace ToDo.Api.Controllers
+namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

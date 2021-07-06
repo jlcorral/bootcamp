@@ -1,6 +1,6 @@
 using System;
 
-namespace ToDo.Api
+namespace API
 {
     public class WeatherForecast
     {
