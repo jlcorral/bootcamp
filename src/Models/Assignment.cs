@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ToDo.Data
+namespace Models
 {
     public class Assignment
     {
@@ -8,6 +8,6 @@ namespace ToDo.Data
         public string Name { get; set; }
         public string Description { get; set; }
         public DateTime Timestamp { get; set; }
-        public bool Completed { get; set; }
+        // public bool Completed { get; set; }
     }
 }
